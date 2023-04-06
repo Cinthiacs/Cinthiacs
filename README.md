@@ -1,6 +1,6 @@
 Olá, sou Cinthia Cavalheiro
 
-- 🔭 Hoje Trabalho com desenvolvimento e pesquisa
+- 🔭 Hoje Trabalho com Desenvolvimento e Pesquisa
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
 - 📫 contacte-me no email: cinthiadiascavalheiro@gmail.com
 - 😄 Pronouns: ela/dela
