@@ -4,8 +4,7 @@ Olá, sou Cinthia Cavalheiro
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
 - 📫 contacte-me no email: cinthiadiascavalheiro@gmail.com
 - 😄 Pronouns: ela/dela
-
-  
+ 
  ##
   
   <div> 
@@ -16,4 +15,3 @@ Olá, sou Cinthia Cavalheiro
   ![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
