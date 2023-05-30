@@ -2,7 +2,7 @@ Olá, sou Cinthia Cavalheiro
 
 - 🔭 Open to work
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
-- 📫 contacte-me no email: cinthiadiascavalheiro@gmail.com
+- 📫 Contacte-me no email: cinthiadiascavalheiro@gmail.com
 - 😄 Pronouns: ela/dela
 
 
