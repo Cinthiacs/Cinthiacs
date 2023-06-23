@@ -4,6 +4,7 @@ Olá, sou Cinthia Cavalheiro
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
 - 📫 Contacte-me no email: cinthiadiascavalheiro@gmail.com
 - 😄 Pronouns: ela/dela
+- :construction_worker_woman: Portifólio em construção.
 
 <div align="center">
   <a href="https://github.com/Cinthiacs">
