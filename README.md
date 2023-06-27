@@ -1,4 +1,15 @@
-Olá, sou Cinthia Cavalheiro
+<h1 align="center">Hi, I'm, Cinthia Cavalheiro!</h1>
+
+<div align="center">
+  
+<a href="https://github.com/Cinthiacs"> <img src="./repos/typing.svg"> </a>
+  
+</div>
+
+<br>
+
+
+
 
 - 🔭 Open to work
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
