@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm, Cinthia Cavalheiro!</h1>
+<h1 align="center">olá! Sou Cinthia Cavalheiro!</h1>
 
 <div align="center">
   
