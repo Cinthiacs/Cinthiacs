@@ -1,12 +1,9 @@
-
 - 🔭 Open to work.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas_Facens|Sorocaba-SP.
 - ✉ Contacte-me no email: cinthiadiascavalheiro@gmail.com 
 - 👋 Say hi to me on [LinkedIn](https://www.linkedin.com/in/cinthia-cavalheiro-silverio/)
 - 😄 Pronouns: ela/dela.
 - :construction_worker_woman: Portfólio em construção.
-
-
 
 <div align="center">
 <h3>─── ❖ ── Wow! Look at the stats! ── ❖ ───</h3>
