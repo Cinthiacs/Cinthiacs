@@ -1,20 +1,18 @@
-<h1 align="center">Cinthia Cavalheiro</h1>
-<h3 align="center"> Análise e Desenvolvimento de Sistemas</h3>
-<div align="center">
-</div>
-<div align="right">
-<img width="411" alt="CinthiaC.jpg"src="https://user-images.githubusercontent.com/91417907/216208895-8c39cc12-d579-448d-a724-24969dc23fe7.png">
-</div>
-<br>
+# Cinthia Cavalheiro
+## Análise e Desenvolvimento de Sistemas
+
+<img align="right" width="200" alt="CinthiaC.jpg" src="https://github.com/Cinthiacs/Cinthiacs/blob/main/cinthiaC.jpg">
 
 - 🔭 Open to work
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - ✉ Contacte-me no email: cinthiadiascavalheiro@gmail.com
-- 👋 Say hi to me in my **<a href="https://www.linkedin.com/in/cinthia-cavalheiro-silverio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>**
+- 👋 Say hi to me on [LinkedIn](https://www.linkedin.com/in/cinthia-cavalheiro-silverio/)
 - 😄 Pronouns: ela/dela
-- :construction_worker_woman: Portifólio em construção.
+- :construction_worker_woman: Portfólio em construção.
 
-  <div align="center">
+
+
+<div align="center">
 <h3>─── ❖ ── Wow! Look at the stats! ── ❖ ───</h3>
 <br>
 </div>
