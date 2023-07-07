@@ -1,5 +1,3 @@
-# <div align="center">Cinthia Cavalheiro</div>
-## <div align="center">Análise e Desenvolvimento de Sistemas</div>
 
 - 🔭 Open to work.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas_Facens|Sorocaba-SP.
