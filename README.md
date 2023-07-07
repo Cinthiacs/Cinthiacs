@@ -4,7 +4,7 @@
 <img align="right" width="200" alt="CinthiaC.jpg" src="https://github.com/Cinthiacs/Cinthiacs/blob/main/cinthiaC.jpg">
 
 - 🔭 Open to work.
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas Facens|Sorocaba-SP.
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas_Facens|Sorocaba-SP.
 - ✉ Contacte-me no email: cinthiadiascavalheiro@gmail.com 
 - 👋 Say hi to me on [LinkedIn](https://www.linkedin.com/in/cinthia-cavalheiro-silverio/)
 - 😄 Pronouns: ela/dela.
