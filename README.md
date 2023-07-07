@@ -1,9 +1,10 @@
 <h1 align="center">Cinthia Cavalheiro</h1>
 <h3 align="center"> Análise e Desenvolvimento de Sistemas</h3>
-
 <div align="center">
 </div>
-
+<div align="right">
+<img width="411" alt="CinthiaC.jpg"src="https://user-images.githubusercontent.com/91417907/216208895-8c39cc12-d579-448d-a724-24969dc23fe7.png">
+</div>
 <br>
 
 - 🔭 Open to work
