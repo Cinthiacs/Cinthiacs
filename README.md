@@ -1,11 +1,11 @@
-# Cinthia Cavalheiro
-## Análise e Desenvolvimento de Sistemas
+# <div align="center">Cinthia Cavalheiro</div>
+## <div align="center">Análise e Desenvolvimento de Sistemas</div>
 
 <img align="right" width="200" alt="CinthiaC.jpg" src="https://github.com/Cinthiacs/Cinthiacs/blob/main/cinthiaC.jpg">
 
 - 🔭 Open to work
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- ✉ Contacte-me no email: cinthiadiascavalheiro@gmail.com
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas Facens|Sorocaba-SP.
+- ✉ Contacte-me no email: cinthiadiascavalheiro@gmail.com 
 - 👋 Say hi to me on [LinkedIn](https://www.linkedin.com/in/cinthia-cavalheiro-silverio/)
 - 😄 Pronouns: ela/dela
 - :construction_worker_woman: Portfólio em construção.
