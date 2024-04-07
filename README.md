@@ -1,4 +1,4 @@
-- 🔭 Open to work.
+- 🔭 Intern at FIT|Flextronics.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas_Facens|Sorocaba-SP.
 - ✉ Contacte-me no email: cinthiadiascavalheiro@gmail.com 
 - 👋 Say hi to me on [LinkedIn](https://www.linkedin.com/in/cinthia-cavalheiro-silverio/)
