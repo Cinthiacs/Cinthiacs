@@ -1,5 +1,5 @@
 - 🔭 Intern at FIT|Flextronics.
-- 💻 Undergraduate of Analysis and Systems Development|Facens-Sorocaba-SP.
+- 💻 Analysis and Systems Development
 - ✉ My email: cinthiadiascavalheiro@gmail.com 
 - 👋 Say hi to me on [LinkedIn](https://www.linkedin.com/in/cinthia-cavalheiro-silverio/)
 - 😄 Pronouns: ela/dela|she/hers.
