@@ -1,4 +1,4 @@
-- 🔭 Intern at FIT|Flextronics.
+- 🔭 Engineering Assistant FIT|Flextronics.
 - 💻 Analysis and Systems Development
 - ✉ My email: cinthiadiascavalheiro@gmail.com 
 - 👋 Say hi to me on [LinkedIn](https://www.linkedin.com/in/cinthia-cavalheiro-silverio/)
